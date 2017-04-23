@@ -1,0 +1,24 @@
+(function() {
+	window.indexes = {};
+window.indexes['BOC000341'] = {fileName: 'BOC000341.JPG'};
+window.indexes['BOC008642'] = {fileName: 'BOC008642.JPG'};
+window.indexes['BOC010933'] = {fileName: 'BOC010933.JPG'};
+window.indexes['BOC036287'] = {fileName: 'BOC036287.JPG'};
+window.indexes['BOC039816'] = {fileName: 'BOC039816.JPG'};
+window.indexes['BOC062003'] = {fileName: 'BOC062003.JPG'};
+window.indexes['BOC066809'] = {fileName: 'BOC066809.JPG'};
+window.indexes['BOC073579'] = {fileName: 'BOC073579.JPG'};
+window.indexes['BOC075655'] = {fileName: 'BOC075655.JPG'};
+window.indexes['BOC080614'] = {fileName: 'BOC080614.JPG'};
+window.indexes['BOC086273'] = {fileName: 'BOC086273.JPG'};
+window.indexes['BOC086463'] = {fileName: 'BOC086463.JPG'};
+window.indexes['BOC086548'] = {fileName: 'BOC086548.JPG'};
+window.indexes['BOC086979'] = {fileName: 'BOC086979.JPG'};
+window.indexes['BOC087051'] = {fileName: 'BOC087051.JPG'};
+window.indexes['BOC087218'] = {fileName: 'BOC087218.JPG'};
+window.indexes['BOC087246'] = {fileName: 'BOC087246.JPG'};
+window.indexes['BOC087249'] = {fileName: 'BOC087249.JPG'};
+window.indexes['BUK002641'] = {fileName: 'BUK002641.JPG'};
+window.indexes['MPH006621'] = {fileName: 'MPH006621.JPG'};
+window.indexes['test-image'] = {fileName: 'test-image.jpg'};
+})();
