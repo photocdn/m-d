@@ -23,6 +23,7 @@ window.indexes['BOC087246'] = {fileName: 'BOC087246.JPG'};
 window.indexes['BOC087249'] = {fileName: 'BOC087249.JPG'};
 window.indexes['BUK002641'] = {fileName: 'BUK002641.JPG'};
 window.indexes['dd909498ed6e9baa1ccb5d0b4da0971f'] = {fileName: 'dd909498ed6e9baa1ccb5d0b4da0971f.JPG'};
+window.indexes['e2e7ae639219399924949337f1b037b3'] = {fileName: 'e2e7ae639219399924949337f1b037b3.JPG'};
 window.indexes['e3398d34a94149a8230daf4c1d43a3a6'] = {fileName: 'e3398d34a94149a8230daf4c1d43a3a6.JPG'};
 window.indexes['MPH006621'] = {fileName: 'MPH006621.JPG'};
 window.indexes['test-image'] = {fileName: 'test-image.jpg'};
